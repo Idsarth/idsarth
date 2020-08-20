@@ -2,12 +2,11 @@
 
 ![ezgif com-webp-to-png](https://user-images.githubusercontent.com/53131114/87866149-5d12fb80-c93b-11ea-86ca-23d5191a85f6.png)
 
-Hi, I'm Idsarth Juarez, a Full Stack Developer 🚀 and Mobile developer from Nicaragua. With extensive experience in developing native and multi-platform applications for iOS and Android.
+Hi, I'm Idsarth Juarez, a Full Stack 🚀 and Mobile developer from Nicaragua. With extensive experience in developing native and multi-platform applications for iOS and Android.
 
 
 ```javascript
 const aboutMe = {
-  about: "",
   code: ["Javascript", "Typescript", "Python", "Golang", "Dart"],
   technologies: {
     mobileApp: ["React Native", "Flutter", "Kotlin"],
