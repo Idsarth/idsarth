@@ -7,7 +7,7 @@ const aboutMe = {
   technologies: {
     mobileApp: ["React Native", "Flutter", "Kotlin"],
     frontEnd: {
-      js: ["React", "Angular"],
+      js: ["React", "Redux", "Reach Router"],
       css: [
         "Sass",
         "architecture": ["OOCSS","SMACSS", "BEM"]
@@ -22,11 +22,12 @@ const aboutMe = {
     testing: ["Jest","Enzyme"],
     bundler: "Webpack",
     devOps: ["Nginx"],
-    databases: ["Mongo", "MySql", "PostgreSQL"],
+    databases: ["Mongo", "PostgreSQL", "Firebase"],
     packageManager: ["npm","yarn"],
     repoHost: ["GitLab","GitHub"],
     misc: ["WebSocket", "Socket.IO"]
   },
   architecture: ["Progressive Web Applications", "Single Page Applications", "Microservices"],
+  machineLearning: ["Tensorflow", "Pytorch", "Keras", "Scikit Learn"]
 }
 ```
