@@ -1,11 +1,11 @@
-Hi, I'm Idsarth Juarez, a Full Stack 🚀 and Mobile developer from Nicaragua. With extensive experience in developing native and multi-platform applications for iOS and Android.
+Hi, I'm Idsarth Juarez, a Frontend 🚀 and Mobile developer from Nicaragua. With extensive experience in developing native and multi-platform applications for iOS and Android.
 
 
 ```javascript
 const aboutMe = {
-  code: ["Javascript", "Typescript", "Python", "Golang", "Dart"],
+  code: ["Javascript", "Python", "Golang", "Dart", "Kotlin", "Swift"],
   technologies: {
-    mobileApp: ["React Native", "Flutter", "Kotlin"],
+    mobileApp: ["React Native", "Flutter", "Kotlin", "Swift"],
     frontEnd: {
       js: ["React", "Redux", "Reach Router"],
       css: [
@@ -14,14 +14,13 @@ const aboutMe = {
       ]
     },
     backEnd: {
-      js: ["Node", "Express", "Nest", "Next", "GraphQL"],
+      js: ["Node", "Express", "Next", "GraphQL"],
       python: ["Flask"],
       dart: ["Flutter"],
-      golang: ["Echo"]
     },
     testing: ["Jest","Enzyme"],
     bundler: "Webpack",
-    devOps: ["Nginx"],
+    devOps: ["Nginx", "Docker"],
     databases: ["Mongo", "PostgreSQL", "Firebase"],
     packageManager: ["npm","yarn"],
     repoHost: ["GitLab","GitHub"],
